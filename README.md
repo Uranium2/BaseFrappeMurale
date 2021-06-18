@@ -19,3 +19,5 @@ L’utilisateur peut modifier le délai entre deux coups, mais aussi cycler sur 
 # Objectif
 L’objectif de ce POC est de montrer qu’il est possible que toutes personnes puissent s’entrainer chez soi, qu’il soit déficient visuel, mal entendant ou handicap moteur léger.
 
+![](concept0.png)
+![](concept1.png)
