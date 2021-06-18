@@ -1,7 +1,7 @@
 # BaseFrappeMurale
 
-Ceci est un schéma simplifié qui ne contient que 4 zones de frappes affin d’alléger les calculs dans tinkcad
-![](Mighty_Amur.png)
+Ceci est un schéma simplifié qui ne contient que 4 zones de frappes affin d’alléger les calculs dans tinkercad.
+![](img/Mighty_Amur.png)
 
 Simulation : https://www.tinkercad.com/things/cN2L4HN94If
 
@@ -24,5 +24,5 @@ L’utilisateur peut modifier le délai entre deux coups, mais aussi cycler sur 
 
 L’objectif de ce POC est de montrer qu’il est possible que toutes personnes puissent s’entrainer chez soi, qu’il soit déficient visuel, mal entendant ou handicap moteur léger.
 
-![](concept_0.png)
-![](concept_1.png)
+![](img/concept_0.png)
+![](img/concept_1.png)
