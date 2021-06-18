@@ -29,3 +29,9 @@ L’objectif de ce POC est de montrer qu’il est possible pour n'importe qui de
 
 ![](img/concept_0.png)
 ![](img/concept_1.png)
+
+# Connexion
+
+L'arduino est connecté à un esp8266 (wifi), ce qui lui permet d'envoyer en temps réel les informations de pression. Qui seront stocké dans un Azure Cosmos DB sous format Json.
+
+Une application sur téléphone pourrait permettre de demander des traitements sur des azures functions afin de créer des visuels rapide pour l'utilisateur et de façon scalable.
