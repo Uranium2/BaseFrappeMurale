@@ -1,6 +1,6 @@
 # BaseFrappeMurale
 
-![](Mighty_Amur2.png)
+![](Mighty_Amur.png)
 
 # Composants:
 
