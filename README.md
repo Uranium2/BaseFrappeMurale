@@ -16,7 +16,7 @@ Simulation : https://www.tinkercad.com/things/cN2L4HN94If
 
 # Concept
 
-Touch.it est un concept de base de frappe murale pour s'entrainer chez soi. Le but est d'atteindre les cibles dans un temps imparti. Les cibles sont désignées une à une de façon aléatoire. Chaque cible contient un buzzer et une bande LED. Selon le mode, la bande LED et/ou le buzzer vont s’activer, un délai permet de récupérer la pression maximale associée à la cible. Un retour de sa performance lui est donné est temps réel.
+Pouch.it est un concept de base de frappe murale pour s'entrainer chez soi. Le but est d'atteindre les cibles dans un temps imparti. Les cibles sont désignées une à une de façon aléatoire. Chaque cible contient un buzzer et une bande LED. Selon le mode, la bande LED et/ou le buzzer vont s’activer, un délai permet de récupérer la pression maximale associée à la cible. Un retour de sa performance lui est donné est temps réel.
 
 L’utilisateur peut modifier le délai entre deux coups, mais aussi naviguer entre les 3 modes de fonctionnement :
 * Son et LED
